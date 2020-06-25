@@ -1,4 +1,9 @@
 Bref :1
+http://localhost/wordpress/wp-admin/
+
+UserName: Askhatir7@gmail.com.
+
+Password: 1234567 .
 
 1- Installation Wordpress à travers le lien : https://wordpress.org/download/
 
